@@ -17,6 +17,8 @@ Python and SQL application that analyzes traffic camera violation data and gener
 ### Java Client-Server Checkers
 Multiplayer checkers application with networking, persistent records, and graphical user interface.
 
+Repository: https://github.com/kcox63/Checkers-Client-Server
+
 ### Epoll-Based HTTP Web Server
 Concurrent web server written in C using Linux epoll for efficient handling of multiple client connections.
 

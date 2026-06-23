@@ -14,6 +14,8 @@ This repository serves as a central portfolio for my software engineering projec
 ### Chicago Traffic Camera Analysis
 Python and SQL application that analyzes traffic camera violation data and generates statistics and visualizations.
 
+Repository: https://github.com/kcox63/Chicago-Traffic-Camera-Analysis
+
 ### Java Client-Server Checkers
 Multiplayer checkers application with networking, persistent records, and graphical user interface.
 

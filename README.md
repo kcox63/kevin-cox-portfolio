@@ -1,4 +1,4 @@
-# kevin-cox-portfolio
+# Kevin-Cox-Portfolio
 Hello! I'm Kevin Cox, a Computer Science student at the University of Illinois-Chicago with a concentration in Software Engineering.
 
 This repository serves as a central portfolio for my software engineering projects. My interests include backend development, systems programming, networking, data analytics, and full-stack applications.
@@ -24,8 +24,7 @@ Repository: https://github.com/kcox63/Checkers-Client-Server
 ### Epoll-Based HTTP Web Server
 Concurrent web server written in C using Linux epoll for efficient handling of multiple client connections.
 
-### Unix Shell
-Custom shell implementation supporting process execution, pipes, redirection, and conditional operators.
+Repository: /github.com/kcox63/C-Epoll-Web-Server
 
 ## Contact
 

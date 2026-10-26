@@ -6,7 +6,7 @@ This repository serves as a central portfolio for my software engineering projec
 ## Technical Skills
 
 - Languages: C, C++, Python, SQL, Java, JavaScript, Go
-- Tools: Linux, Git, VS Code, SQLite, Power BI, Tableau
+- Tools: Linux, Git, VS Code, SQLite, Power BI, Tableau, Jupyter Notbook
 - Areas of Interest: Software Engineering, Backend Development, Systems Programming, Data Analytics
 
 ## Projects
